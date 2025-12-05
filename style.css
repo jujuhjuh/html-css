@@ -1,0 +1,23 @@
+/** style.css**/
+body {
+    font-size: 10px;
+    background-image: url('background002.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+}
+    
+h1 {
+   background:rgb(18, 17, 17)
+   color white;
+   text-align:center
+}
+
+p {
+    text-align: justify;
+    font-family: Arial;
+    text-align: center;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+
+}
