@@ -1,23 +1,26 @@
-/** style.css**/
-body {
-    font-size: 10px;
-    background-image: url('background002.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
+/**style.css**/
+
+body{
+    background-color: #83E1AD;
+    font-size: large;
+    font-family: black;
 }
-    
-h1 {
-   background:rgb(18, 17, 17)
-   color white;
-   text-align:center
+
+header{
+    font-size: medium;
+    font-family: cursive;
+    background-color: #3ddc84;
+}
+
+h1{
+    font-size: medium;
 }
 
 p {
-    text-align: justify;
-    font-family: Arial;
-    text-align: center;
-    font-size: 2em;
-    color: rgb(0, 0, 0);
+  font-size: medium;
+  font: Arial, Helvetica, sans-serif, 2em;  
+}
 
+img{
+    width:300px
 }
